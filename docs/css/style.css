@@ -5,3 +5,14 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+
+/* CSS used here will be applied after bootstrap.css */
+
+.list-group-item {
+    display: list-item;
+}
+
+.letra-pregunta{
+	
+	font-size: 20px;	
+}
